@@ -1,7 +1,11 @@
+# encoding: utf-8
+
+$:.unshift File.expand_path('../lib', __FILE__)
+require 'bootstrap_modal_helper/version'
+
 Gem::Specification.new do |s|
   s.name        = 'bootstrap_modal_helper'
-  s.version     = '0.0.0'
-  s.date        = '2014-08-20'
+  s.version     = Simditor::Rails::VERSION
   s.summary     = "Help to make and manage bootstrap modals"
   s.description = "Help to make and manage bootstrap modals"
   s.authors     = ["greatghoul"]
