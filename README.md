@@ -1,4 +1,4 @@
-bootstrap_modal_helpers
-=======================
+bootstrap\_modal\_helper
+========================
 
 RubyGem - Bootstrap Modal Helper

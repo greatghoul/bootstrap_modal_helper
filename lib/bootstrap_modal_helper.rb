@@ -1,0 +1,2 @@
+class BootstrapModalHelper
+end
